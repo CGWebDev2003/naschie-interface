@@ -16,6 +16,8 @@ const createWindow = () => {
     })
   
     win.loadFile('index.html')
+
+    // ANCHOR Turn On/Off DevTools
     // win.webContents.openDevTools()
   }
 
