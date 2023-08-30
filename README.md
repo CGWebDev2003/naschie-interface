@@ -23,3 +23,7 @@ Clone dieses repository und öffne es in VS Code.
 Öffne ```buttons.js``` und ändere die mit anchors markierten parameter. Um an den PATH zum python interpreter zu kommen öffne den CMD und gib ```where python``` ein. Kopiere den Pfad in die Variable ```pyPath```. Kopiere jetzt deine Routen-files in den ```src```-ordner und passe die Dateinamen in den Variablen ```buttonA```, ```buttonB```, ```buttonC``` in ```buttons.js``` an.
 
 ![Eingabeaufforderung 30 08 2023 15_10_29](https://github.com/CGWebDev2003/naschie-interface/assets/122671813/9b23248e-54e3-4c07-ae49-c3fd6cc935ca)
+
+## Author
+
+[Colin Grahm](https://colingrahm.com)
