@@ -23,7 +23,13 @@ Jetzt musst du Python installieren und zum PATH hinzufügen. Lade den Python ins
 
 Clone dieses repository und öffne es in VS Code.
 
-#### 3.2 Setup files
+#### 3.2 Install dependencies
+
+Wenn du die Datei geöffnet hast, öffne ein Terminal in VS code und führe folgenden Befehl aus:
+
+```npm install```
+
+#### 3.3 Setup files
 
 Öffne ```buttons.js``` und ändere die mit anchors markierten parameter. Um an den PATH zum python interpreter zu kommen öffne den CMD und gib ```where python``` ein. Kopiere den Pfad in die Variable ```pyPath```. Kopiere jetzt deine Routen-files in den ```src```-ordner und passe die Dateinamen in den Variablen ```buttonA```, ```buttonB```, ```buttonC``` in ```buttons.js``` an.
 
