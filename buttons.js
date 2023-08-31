@@ -1,7 +1,7 @@
 const execSh = require("exec-sh");
 
 var pyPath = "C:/Users/Colin/AppData/Local/Programs/Python/Python311/python.exe"; // NOTE Enter your PATH to Python interpreter
-var route_a = pyPath + ' ' + 'route_a.py'; // NOTE Enter PATH to route file
+var route_a = pyPath + ' ' + 'LightXX2.py'; // NOTE Enter PATH to route file
 var route_b = pyPath + ' ' + 'route_b.py'; // NOTE Enter PATH to route file
 var route_c = pyPath + ' ' + 'route_c.py'; // NOTE Enter PATH to route file
 const buttonA = document.getElementById("route-a-btn"); 
