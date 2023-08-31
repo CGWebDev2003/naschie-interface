@@ -41,4 +41,4 @@ Wenn du die Datei geöffnet hast, öffne ein Terminal in VS code und führe folg
 
 ## Author
 
-[Colin Grahm](https://colingrahm.com)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=CGWebDev2003&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)<br>
