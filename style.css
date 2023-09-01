@@ -17,3 +17,13 @@ body {
 .logo {
     height: 6rem;
 }
+
+button {
+    height: 7rem;
+    width: 15rem;
+}
+
+button .button-text {
+    font-size: 1.6rem !important;
+    font-weight: 600 !important;
+}
