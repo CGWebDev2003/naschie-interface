@@ -1,6 +1,5 @@
 import paramiko
 
-
 class SSHControl:
     def __init__(self, ip, user, pwd):
         self._ssh_ip = ip
