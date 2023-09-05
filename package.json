@@ -1,7 +1,7 @@
 {
   "name": "wbs-robot-interface",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "Interface for Naschi Robot",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -13,6 +13,7 @@
     "electron": "^26.1.0"
   },
   "dependencies": {
+    "animate.css": "^4.1.1",
     "electron-reload": "^2.0.0-alpha.1",
     "exec-sh": "^0.4.0",
     "neptunecss": "^1.1.2",

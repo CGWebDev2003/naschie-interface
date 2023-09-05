@@ -23,6 +23,11 @@ button {
     width: 15rem;
 }
 
+button:hover {
+    transition: .2s;
+    transform: translateY(-1rem);
+}
+
 button .button-text {
     font-size: 1.6rem !important;
     font-weight: 600 !important;

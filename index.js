@@ -5,8 +5,8 @@ const electronReload = require('electron-reload')
 
 const createWindow = () => {
     const win = new BrowserWindow({
-        width: 800,
-        height: 600,
+        width: 1200,
+        height: 900,
         autoHideMenuBar: true,
         icon: __dirname + '/assets/icon.png',
         webPreferences: {
@@ -18,7 +18,7 @@ const createWindow = () => {
     win.loadFile('index.html')
 
     // ANCHOR Turn On/Off DevTools
-    win.webContents.openDevTools()
+    // win.webContents.openDevTools()
   }
 
   app.whenReady().then(() => {
